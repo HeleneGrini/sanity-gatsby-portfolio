@@ -4,6 +4,10 @@ A portfolio using structured content and a static site builder.
 
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-portfolio).
 
+
+App: https://sanity-gatsby-portfolio-web-e121t3cw.netlify.app
+Studio: https://sanity-gatsby-portfolio-studio-ox2on2me.netlify.app
+
 ## What you have
 
 - A blazing fast portfolio with [Gatsby.js](https://gatsbyjs.org)
